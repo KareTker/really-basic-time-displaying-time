@@ -1,0 +1,17 @@
+html, body {
+    min-width: 100vh;
+}
+body {
+    background-color: black;
+}
+.clock {
+    font-size: 200px;
+    text-align: center;
+}
+.card {
+    width: 885px;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 0px 0px 0px 0px;
+}
